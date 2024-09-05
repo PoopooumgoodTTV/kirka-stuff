@@ -7,7 +7,7 @@ output_file = 'xp_list.txt'
 temp_file = 'temp_xp_list.txt'  # Temporary file to store results before deduplication
 
 # Base URL for requests
-base_url = 'https://kirka.irrvlo.xyz/_next/data/Qj7Evkvz7SgKQYk1Q4HmZ/users/'
+base_url = 'https://kirka.irrvlo.xyz/users/985CBJ'
 
 def fetch_user_data(user_id):
     # Strip the '#' from the beginning of the user ID
